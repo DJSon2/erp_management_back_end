@@ -43,4 +43,7 @@ DB : OracleDB
   - 매출
   - 입금
   - 카드사 종류
+
+# DB 테이블 구조
+https://www.erdcloud.com/
  
