@@ -46,4 +46,6 @@ DB : OracleDB
 
 # DB 테이블 구조
 https://www.erdcloud.com/
- 
+
+# 피그마 
+https://www.figma.com/file/I3vqQzjSq29VsWMuUHXw5F/Untitled?type=design&t=V2Or9KpXKYnBT8gG-0
