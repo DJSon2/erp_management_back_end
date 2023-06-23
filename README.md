@@ -4,6 +4,14 @@
 # 프로그램 구조 구성
 REST API를 활용하며 React, Spring Boot로 웹을 구성 
 
+# 적용된 Starter
+- JDBC API
+- Oracle Driver
+- Spring Boot DevTools
+- Spring Web
+- Spring Security
+- Spring Data Jpa
+
 # 사용 프로그램
 IDE : VsCode, STS4
 DB : OracleDB
