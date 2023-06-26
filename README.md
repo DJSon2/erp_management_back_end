@@ -3,6 +3,7 @@
 
 # 프로그램 구조 구성
 REST API를 활용하며 React, Spring Boot로 웹을 구성 
+기존에 경험했었던 DB가 아닌 NOSQL 방식을 사용해 다른 DB를 사용할 예정
 
 # 적용된 Starter
 - JDBC API
